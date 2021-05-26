@@ -1,18 +1,17 @@
-import "./App.scss";
-import reactImg from "./assets/react.svg";
-import ContainerCard from "./components/ContainerCard";
+import React from "react";
+import Navbar from "./components/navbar/Navbar";
+import Header from "./components/header/Header";
+import Card from "./components/cards/Card";
+import "./App.css";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <div className="top_part">
-        <img src={reactImg} alt="logo" />
-      </div>
-      <div className="bottom_part">
-        <ContainerCard />
-      </div>
+      <Navbar />
+      <Header />
+      <Card />
     </div>
   );
-}
+};
 
 export default App;
