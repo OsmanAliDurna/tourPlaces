@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tourPlaces/static/css/main.bab0b925.chunk.css",
-    "main.js": "/tourPlaces/static/js/main.00e44600.chunk.js",
-    "main.js.map": "/tourPlaces/static/js/main.00e44600.chunk.js.map",
-    "runtime-main.js": "/tourPlaces/static/js/runtime-main.fec604ad.js",
-    "runtime-main.js.map": "/tourPlaces/static/js/runtime-main.fec604ad.js.map",
+    "main.css": "/tourPlaces/static/css/main.469345b4.chunk.css",
+    "main.js": "/tourPlaces/static/js/main.2eb865d6.chunk.js",
+    "main.js.map": "/tourPlaces/static/js/main.2eb865d6.chunk.js.map",
+    "runtime-main.js": "/tourPlaces/static/js/runtime-main.83327a85.js",
+    "runtime-main.js.map": "/tourPlaces/static/js/runtime-main.83327a85.js.map",
     "static/js/2.9754a522.chunk.js": "/tourPlaces/static/js/2.9754a522.chunk.js",
     "static/js/2.9754a522.chunk.js.map": "/tourPlaces/static/js/2.9754a522.chunk.js.map",
-    "static/js/3.a0f5bb1c.chunk.js": "/tourPlaces/static/js/3.a0f5bb1c.chunk.js",
-    "static/js/3.a0f5bb1c.chunk.js.map": "/tourPlaces/static/js/3.a0f5bb1c.chunk.js.map",
+    "static/js/3.964fd89f.chunk.js": "/tourPlaces/static/js/3.964fd89f.chunk.js",
+    "static/js/3.964fd89f.chunk.js.map": "/tourPlaces/static/js/3.964fd89f.chunk.js.map",
     "index.html": "/tourPlaces/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/tourPlaces/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.9754a522.chunk.js.LICENSE.txt": "/tourPlaces/static/js/2.9754a522.chunk.js.LICENSE.txt",
-    "static/media/react.7b78f5c3.svg": "/tourPlaces/static/media/react.7b78f5c3.svg"
+    "static/css/main.469345b4.chunk.css.map": "/tourPlaces/static/css/main.469345b4.chunk.css.map",
+    "static/js/2.9754a522.chunk.js.LICENSE.txt": "/tourPlaces/static/js/2.9754a522.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fec604ad.js",
+    "static/js/runtime-main.83327a85.js",
     "static/js/2.9754a522.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.00e44600.chunk.js"
+    "static/css/main.469345b4.chunk.css",
+    "static/js/main.2eb865d6.chunk.js"
   ]
 }
